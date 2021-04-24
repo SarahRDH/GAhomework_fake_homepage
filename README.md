@@ -1,2 +1,2 @@
 # GAhomework_fake_homepage
-Created a responsive home page with HTML and CSS for a fake business
+Built a responsive home page from scratch with HTML and CSS for a fake business. Created to replicate the design mockup.
